@@ -1,0 +1,22 @@
+{
+    "name": "anta",
+    "description": "Deploy haru on Heroku.",
+    "keywords": ["anta"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "51d89da7-444c-4099-b904-72af4e99164e"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/pgy2022/haru",
+    "stack": "container"
+}
